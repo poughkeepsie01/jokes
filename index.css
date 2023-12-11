@@ -9,7 +9,7 @@ html{
   size: 100%;
 }
 body{
-    
+    overflow: hidden;
     background-color: aliceblue;
     width: 100vw;
     min-height: 100vh;
