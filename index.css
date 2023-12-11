@@ -7,7 +7,7 @@
 }
 html{
   size: 100%;
-  overflow: hidden;
+  overflow: auto;
 }
 body{
     
